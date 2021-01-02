@@ -1,1 +1,1 @@
-# My own website, created during the Web Dev course and updated as I go along. :)
+# My own website, created during the Web Dev course I'm following and updated as I go along. :)
